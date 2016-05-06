@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_url_label">Please input URL to load the image</string>
+    <string name="local_host_image">http://127.0.0.1/image.jpg</string>
+    <string name="url_not_provided">URL for image download is not provided.</string>
+    <string name="loading_image">Loading Image from URL…</string>
+    <string name="started_loading">"Started loading of image from "</string>
+    <string name="tap_anywhere_to_close">Tap anywhere to close dialog</string>
+    <string name="no_rotated_image">No rotated Image</string>
+    <string name="saved_to">"Saved image to: "</string>
+    <string name="error_loading" formatted="false">Failed to load image with Http code: %s. Check network connection or use different URL.</string>
+</resources>
